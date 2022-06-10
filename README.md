@@ -6,6 +6,8 @@
 
 #### For Development, I have provided a placeholder `data.json` file which is then passed to the `dev.pug` file via `.pugrc.js`, to update the contents of this, in the `main/js/index.js` file, fetch your own data from your Prismic repo and copy/paste from the console logs
 
+#### To run on Netlify, declare the same environment variables in your deploy settings. You can also use [webhooks](https://prismic.io/docs/core-concepts/webhooks) to trigger a rebuild if content changes from Prismic
+
 ### To kickstart the boilerplate, provide a `.env` file with your `PRISMIC_ACCESS_TOKEN` && `PRISMIC_ENDPOINT`, then run the following commands:
 
 ```bash
