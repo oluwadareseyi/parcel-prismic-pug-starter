@@ -1,0 +1,15 @@
+[build]
+	publish = "public"
+	command = "npm run build"
+
+[dev]
+	publish = "public"
+	command = "npm run dev:clean"
+
+[[plugins]]
+package = "./plugins/build-pages"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

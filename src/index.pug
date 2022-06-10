@@ -1,0 +1,14 @@
+doctype html
+html(lang="en")
+  head
+    include ./partials/head
+
+  body
+    include ./partials/navigation
+    .pages
+      include ./partials/home
+      include ./partials/about
+    include ./partials/preloader
+    include ./partials/analytics
+
+    script(src='js/index.js' type='module')

@@ -1,0 +1,417 @@
+{
+  "about": {
+    "id": "YqB41BEAACAAMt9B",
+    "uid": null,
+    "url": null,
+    "type": "about",
+    "href": "https://group-256.cdn.prismic.io/api/v2/documents/search?ref=YqNpWREAACAAQCf0&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YqB41BEAACAAMt9B%22%29+%5D%5D",
+    "tags": [],
+    "first_publication_date": "2022-06-08T10:24:25+0000",
+    "last_publication_date": "2022-06-08T23:15:22+0000",
+    "slugs": [
+      "about"
+    ],
+    "linked_documents": [],
+    "lang": "en-us",
+    "alternate_languages": [],
+    "data": {
+      "bio": [
+        {
+          "type": "paragraph",
+          "text": "Based in Lagos, Nigeria, I work remotely with multidisciplinary teams to create impactful digital experiences—mostly websites. I also co-run Studio Null, a digital experience studio. My current verticals of interest are architecture, art, fashion,  entertainment, tech, and sports.*",
+          "spans": []
+        }
+      ],
+      "disclaimer": "This is only a slightly truncated list, If you have something tangential or just as cool in mind,Feel free to reach out.",
+      "focus": [
+        {
+          "type": "list-item",
+          "text": "art direction",
+          "spans": []
+        },
+        {
+          "type": "list-item",
+          "text": "brand strategy",
+          "spans": []
+        },
+        {
+          "type": "list-item",
+          "text": "visual identity",
+          "spans": []
+        },
+        {
+          "type": "list-item",
+          "text": "motion design",
+          "spans": []
+        },
+        {
+          "type": "list-item",
+          "text": "UI/UX design",
+          "spans": []
+        },
+        {
+          "type": "list-item",
+          "text": "editorial design",
+          "spans": []
+        },
+        {
+          "type": "list-item",
+          "text": "website design",
+          "spans": []
+        },
+        {
+          "type": "list-item",
+          "text": "e-commerce design",
+          "spans": []
+        },
+        {
+          "type": "list-item",
+          "text": "Webflow development",
+          "spans": []
+        },
+        {
+          "type": "list-item",
+          "text": "extended reality",
+          "spans": []
+        }
+      ],
+      "shouts": [
+        {
+          "type": "list-item",
+          "text": "Awwwards",
+          "spans": []
+        },
+        {
+          "type": "list-item",
+          "text": "Klikkentheke",
+          "spans": []
+        },
+        {
+          "type": "list-item",
+          "text": "Commarts",
+          "spans": []
+        },
+        {
+          "type": "list-item",
+          "text": "MagazineMindsparkleMag",
+          "spans": []
+        },
+        {
+          "type": "list-item",
+          "text": "Thegallery.io",
+          "spans": []
+        },
+        {
+          "type": "list-item",
+          "text": "Maxibestof",
+          "spans": []
+        },
+        {
+          "type": "list-item",
+          "text": "The Ultra Index®",
+          "spans": []
+        },
+        {
+          "type": "list-item",
+          "text": "Muzli",
+          "spans": []
+        },
+        {
+          "type": "list-item",
+          "text": "Lapa.ninja",
+          "spans": []
+        },
+        {
+          "type": "list-item",
+          "text": "Designnominees",
+          "spans": []
+        },
+        {
+          "type": "list-item",
+          "text": "Cssawards",
+          "spans": []
+        }
+      ],
+      "web_links": [
+        {
+          "link_title": "Mail",
+          "link_url": {
+            "link_type": "Web",
+            "url": "mailto:isaac@fayemi.design"
+          }
+        }
+      ],
+      "colophon": [
+        {
+          "role": "Development",
+          "link_title": "Oluwadare Seyi",
+          "link_url": {
+            "link_type": "Web",
+            "url": "https://seyi.dev"
+          }
+        }
+      ],
+      "bonus_text": "Bonus random stuff:  I find inspiration in music, cinema, fashion, advertising and their intersections. I’m always looking for new EDM and alternative tracks fuel my late night design seshes, send your best ones my way. Just in case you were wondering, my pronouns are he/him. Thanks for stopping by!",
+      "profile_picture": {
+        "link_type": "Web",
+        "url": "https://res.cloudinary.com/dmwfd0zhh/image/upload/v1654683834/Group%20256/isaac-profile_mrbbfs.jpg"
+      }
+    }
+  },
+  "projects": [
+    {
+      "id": "YqEkPhEAACAANfby",
+      "uid": null,
+      "url": null,
+      "type": "work",
+      "href": "https://group-256.cdn.prismic.io/api/v2/documents/search?ref=YqNpWREAACAAQCf0&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YqEkPhEAACAANfby%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2022-06-08T22:35:47+0000",
+      "last_publication_date": "2022-06-08T22:35:47+0000",
+      "slugs": [
+        "jelly"
+      ],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "title": "Jelly",
+        "timeline": "Nov ‘21 - Jan ‘22",
+        "location": "Rotterdam, Nl",
+        "about": "jelly is leveraging blockchain technology to create new following experiences for creators and their fans, we (studio null) worked with them to create a flexible nft marketplace template for their creator clients.",
+        "role": [
+          {
+            "type": "list-item",
+            "text": "art direction",
+            "spans": []
+          },
+          {
+            "type": "list-item",
+            "text": "visual identity",
+            "spans": []
+          },
+          {
+            "type": "list-item",
+            "text": "website design",
+            "spans": []
+          },
+          {
+            "type": "list-item",
+            "text": "brand strategy",
+            "spans": []
+          }
+        ],
+        "collaborators": [
+          {
+            "type": "list-item",
+            "text": "jelly (client)",
+            "spans": []
+          },
+          {
+            "type": "list-item",
+            "text": "oluwadare oluwaseyi  (development)",
+            "spans": []
+          },
+          {
+            "type": "list-item",
+            "text": "femi fashikun (motion)",
+            "spans": []
+          }
+        ],
+        "shouts": [],
+        "project_link": [
+          {
+            "link_title": null,
+            "link_url": {
+              "link_type": "Web",
+              "url": "https://www.samyhalim.xyz/"
+            }
+          }
+        ],
+        "project_images": [
+          {
+            "url": {
+              "link_type": "Any"
+            },
+            "caption": null
+          }
+        ]
+      }
+    }
+  ],
+  "home": {
+    "id": "Yp4Y8hEAACIAKHcA",
+    "uid": null,
+    "url": null,
+    "type": "homepage",
+    "href": "https://group-256.cdn.prismic.io/api/v2/documents/search?ref=YqNpWREAACAAQCf0&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Yp4Y8hEAACIAKHcA%22%29+%5D%5D",
+    "tags": [],
+    "first_publication_date": "2022-06-06T15:10:48+0000",
+    "last_publication_date": "2022-06-09T15:17:47+0000",
+    "slugs": [
+      "homepage"
+    ],
+    "linked_documents": [],
+    "lang": "en-us",
+    "alternate_languages": [],
+    "data": {
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "A Collaborative visual designer and art director with a focus on digital experiences and interfaces. Based in Lagos, working with clients worldwide. Currently Design Director at Studio Null.",
+          "spans": [
+            {
+              "start": 178,
+              "end": 189,
+              "type": "hyperlink",
+              "data": {
+                "link_type": "Web",
+                "url": "https://www.madebynull.com/",
+                "target": "_blank"
+              }
+            }
+          ]
+        }
+      ],
+      "status": [
+        {
+          "type": "paragraph",
+          "text": "Available for collaborations & partnerships from march 2022. happy to discuss your project, let’s talk!",
+          "spans": [
+            {
+              "start": 93,
+              "end": 104,
+              "type": "hyperlink",
+              "data": {
+                "link_type": "Web",
+                "url": "mailto:isaac@fayemi.design"
+              }
+            }
+          ]
+        }
+      ],
+      "spotify_url": {
+        "link_type": "Web",
+        "url": "https://open.spotify.com/playlist/4QwbwCgCq9FTwFMPYx7mUg?si=31c52804c32d46e0"
+      },
+      "spotify_image": {
+        "link_type": "Web",
+        "url": "https://res.cloudinary.com/dmwfd0zhh/image/upload/v1625872208/Korty/A4_-_2_1_lcy5da.jpg"
+      },
+      "head_image": {
+        "link_type": "Web",
+        "url": "https://res.cloudinary.com/dmwfd0zhh/image/upload/v1654786121/Group%20256/render1_1_lgmozz.png"
+      }
+    }
+  },
+  "globals": {
+    "id": "Yp4uYREAACIAKNgW",
+    "uid": null,
+    "url": null,
+    "type": "globals",
+    "href": "https://group-256.cdn.prismic.io/api/v2/documents/search?ref=YqNpWREAACAAQCf0&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Yp4uYREAACIAKNgW%22%29+%5D%5D",
+    "tags": [],
+    "first_publication_date": "2022-06-06T16:42:14+0000",
+    "last_publication_date": "2022-06-08T22:23:59+0000",
+    "slugs": [
+      "globals"
+    ],
+    "linked_documents": [],
+    "lang": "en-us",
+    "alternate_languages": [],
+    "data": {
+      "footer_links": [
+        {
+          "link_text": "Mail",
+          "link_url": {
+            "link_type": "Web",
+            "url": "mailto:isaac@fayemi.design"
+          }
+        },
+        {
+          "link_text": "Are.na",
+          "link_url": {
+            "link_type": "Web",
+            "url": "https://www.are.na/isaac-fayemi"
+          }
+        },
+        {
+          "link_text": "Twitter",
+          "link_url": {
+            "link_type": "Web",
+            "url": "https://twitter.com/isaacfayemi_"
+          }
+        },
+        {
+          "link_text": "Substack",
+          "link_url": {
+            "link_type": "Web",
+            "url": "https://substack.com"
+          }
+        }
+      ],
+      "period": "2021—22",
+      "location": "Lagos, NG",
+      "contact_text": [
+        {
+          "type": "paragraph",
+          "text": "To talk collaborations or partnerships, send an email to isaac@fayemi.design",
+          "spans": [
+            {
+              "start": 57,
+              "end": 77,
+              "type": "hyperlink",
+              "data": {
+                "link_type": "Web",
+                "url": "mailto:isaac@fayemi.design"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "meta": {
+    "id": "YpyCnREAACEAIWDX",
+    "uid": null,
+    "url": null,
+    "type": "metadata",
+    "href": "https://group-256.cdn.prismic.io/api/v2/documents/search?ref=YqNpWREAACAAQCf0&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YpyCnREAACEAIWDX%22%29+%5D%5D",
+    "tags": [],
+    "first_publication_date": "2022-06-05T10:26:51+0000",
+    "last_publication_date": "2022-06-10T15:55:05+0000",
+    "slugs": [
+      "metadata"
+    ],
+    "linked_documents": [],
+    "lang": "en-us",
+    "alternate_languages": [],
+    "data": {
+      "title": "Isaac Fayemi — Group 256",
+      "description": "A collaborative visual designer and art director with a focus on digital experiences and interfaces. Based in Lagos, working with clients worldwide. Currently Design Director at Studio Null.",
+      "og_image": {
+        "link_type": "Web",
+        "url": "https://res.cloudinary.com/dmwfd0zhh/image/upload/v1654876145/Group%20256/OG_Image_2_jvfjvo.jpg"
+      }
+    }
+  },
+  "preloader": {
+    "id": "YqC-gREAACEANCJw",
+    "uid": null,
+    "url": null,
+    "type": "works",
+    "href": "https://group-256.cdn.prismic.io/api/v2/documents/search?ref=YqNpWREAACAAQCf0&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YqC-gREAACEANCJw%22%29+%5D%5D",
+    "tags": [],
+    "first_publication_date": "2022-06-08T15:21:41+0000",
+    "last_publication_date": "2022-06-08T15:21:41+0000",
+    "slugs": [
+      "works"
+    ],
+    "linked_documents": [],
+    "lang": "en-us",
+    "alternate_languages": [],
+    "data": {
+      "title": "Strategic, meaningful, and impactful work for bold, forward-thinking brands as a one-man band and team player."
+    }
+  }
+}

@@ -1,0 +1,11 @@
+%title-h1 {
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: calc(-0.05 * 48px);
+
+  @include media("<=tablet") {
+    font-size: 40px;
+    letter-spacing: calc(-0.05 * 40px);
+  }
+}

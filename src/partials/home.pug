@@ -1,0 +1,10 @@
+- let home = data.home
+- let globals = data.globals.data
+
+.home
+  .home__wrapper
+    .home__wrapper__inner
+      h2 Hello Home!  
+      pre=home.id
+      div!=prismicH.asHTML(globals.contact_text).replace(/<p>/g, '<p data-animation="paragraph">')
+    
