@@ -41,14 +41,17 @@ const handleRequest = async (api) => {
 // Page Builders
 const buildPages = async ({ isLocal }) => {
   try {
+    // Fetch data from prismic
     const api = await initApi();
     const results = await handleRequest(api);
 
-    // Create HTML pages from pug template
+    // Create HTML pages from pug template and pass data fetched from the CMS into it, you can also pass any other data you feel is neccesarry, I'm using `prismicH` here to tap into prismic's helper functions
     const output = await pug.renderFile(`${__dirname}/../../src/index.pug`, {
       data: results,
       prismicH: prismicH,
     });
+
+    // write the HTML output to the file system for Netlify to serve with parcel - See build script
     const dir = `${__dirname}/../../src`;
     if (!fs.existsSync(dir)) {
       fs.mkdirSync(dir);
