@@ -2,8 +2,6 @@ import AutoBind from "auto-bind";
 import each from "lodash/each";
 import Detection from "./classes/Detection";
 import Preloader from "./components/Preloader";
-
-// import Case from "./pages/Case";
 import Home from "./pages/Home";
 import About from "./pages/About";
 
