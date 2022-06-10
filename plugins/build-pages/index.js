@@ -6,19 +6,11 @@ const Prismic = require("@prismicio/client");
 const fetch = require("node-fetch");
 
 const {
-  env: {
-    // Your Account SID from www.twilio.com/console
-    PRISMIC_ACCESS_TOKEN,
-    // Your Auth Token from www.twilio.com/console
-    PRISMIC_CLIENT_ID,
-    // Text this number
-    PRISMIC_CLIENT_SECRET,
-    // From a valid Twilio number
-    PRISMIC_ENDPOINT,
-  },
+  env: { PRISMIC_ACCESS_TOKEN, PRISMIC_ENDPOINT },
 } = require("process");
 
 const initApi = () => {
+  // remove the accessToken if your repo isn't public
   const client = Prismic.createClient(PRISMIC_ENDPOINT, {
     accessToken: PRISMIC_ACCESS_TOKEN,
     fetch,
@@ -70,13 +62,12 @@ const buildPages = async ({ isLocal }) => {
 };
 
 module.exports = {
-  // eslint-disable-next-line consistent-return
   onPreBuild: async ({ utils, constants }) => {
     try {
       await buildPages({
         isLocal: constants.IS_LOCAL,
       });
-      console.log("You've successfully built the playlist catalogue page");
+      console.log("You've successfully built your page");
     } catch (error) {
       return utils.build.failBuild("Failure message", error);
     }
