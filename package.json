@@ -4,7 +4,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "rm -rf .parcel-cache && parcel src/dev.pug --dist-dir public -p 3000",
-    "build": "parcel build src/**/**/*.html src/**/*.html src/*.html --dist-dir public --public-url ./"
+    "build": "parcel build src/**/**/*.html src/**/*.html src/*.html --dist-dir public"
   },
   "keywords": [],
   "author": "",
